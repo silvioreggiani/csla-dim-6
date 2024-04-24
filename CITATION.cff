@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Auxiliary SageMath notebooks for the article The moduli
+  space of left-invariant metrics on six-dimensional
+  characteristically solvable nilmanifolds
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Isolda
+    family-names: Cardoso
+  - given-names: Ana
+    family-names: Cosgaya
+  - given-names: Silvio
+    family-names: Reggiani
